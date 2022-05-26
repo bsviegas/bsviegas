@@ -10,7 +10,7 @@
 - O meu objetivo é aprimorar minhas habilidades e se tornar desenvolvedor back-end e mobile 💻 📱 <br>
 - Atualmente, estudo orientação a objetos 🦾 <br>
 - Apaixonado por jogos RTS, livros de fantasia e astronomia ⚔️ 📚 ☄️ <br>
-- Também gosto muito ter conhecimentos em outras áreas 📖 <br> 
+- Também gosto muito adquirar conhecimentos em outras áreas 📖 <br> 
 
 <div style="display: inline_block">
  <h3> Habilidade 🛠 </h3>
