@@ -24,5 +24,5 @@
  <div>
  <h3> Meu perfil 🚀 </h3>
   <a href="https://github.com/bsviegas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsviegas&show_icons=true&theme=merkol&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsviegas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
