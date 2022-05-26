@@ -4,16 +4,16 @@
  <a href="mailto:brendoviegash@gmail.com"><img src="https://img.shields.io/badge/-brendoviegas@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
  </div>
  
- ### Sobre
-<p> Meu primeiro contato com a programação surgiu pela curiosidade sobre as codificações do jogo - Warcraft III (principalmente pelo mod DotA). A partir desse momento me aprofundei sobre área de desenvolvedor. Pois aquilo me encantava, criar coisas atráves de codificações. Desde então, eu decidi que eu queria fazer isso na minha vida  — ser desenvolvedor </p>
-- Meu primeiro hello world, foi codificado no último ano do ensino médio <br>
-- Atualmente o meu objetivo é aprimorar minhas habilidades e se tornar um desenvolvedor back-end e mobile <br>
-- Estudo orientação a objetos <br>
-- Apaixonado por jogos RTS, livros de fantasia <br>
-- Também gosto muito sobre biologia e ter conhecimentos em outras áreas <br> 
+ ### Sobre 👨🏽‍💻
+<p> Meu primeiro contato com a programação surgiu pela curiosidade sobre as codificações do jogo - Warcraft III (principalmente pelo mod DotA). A partir desse momento me aprofundei sobre área de desenvolvedor. Pois aquilo me encantava, criar coisas atráves de codificações. Desde então, eu decidi que eu queria fazer isso na minha vida  — ser desenvolvedor ⚙️ </p>
+- Meu primeiro hello world, foi codificado no último ano do ensino médio 🌎 <br>
+- O meu objetivo é aprimorar minhas habilidades e se tornar desenvolvedor back-end e mobile 💻 📱 <br>
+- Atualmente, estudo orientação a objetos 🦾 <br>
+- Apaixonado por jogos RTS, livros de fantasia e astronomia ⚔️ 📚 ☄️ <br>
+- Também gosto muito ter conhecimentos em outras áreas 📖 <br> 
 
 <div style="display: inline_block">
- <h3> Habilidade 📚 </h3>
+ <h3> Habilidade 🛠 </h3>
    <img align="center" alt="VsCode" height="30" width="40" style="max-width:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="C" height="30" width="40" style="max-width:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="C++" height="30" width="40" style="max-width:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -22,7 +22,7 @@
 </div>
  
  <div>
- <h3> Sobre o meu perfil 🚀 </h3>
+ <h3> Meu perfil 🚀 </h3>
   <a href="https://github.com/bsviegas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsviegas&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
