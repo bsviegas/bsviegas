@@ -15,9 +15,6 @@
 <div style="display: inline_block">
  <h3> Habilidade 🛠 </h3>
    <img align="center" alt="C" height="30" width="40" style="max-width:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="center" alt="C++" height="30" width="40" style="max-width:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-   <img align="center" alt="Git" height="30" width="40" style="max-width:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-   <img align="center" alt="GitHub" height="30" width="40" style="max-width:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
  
  <div>
